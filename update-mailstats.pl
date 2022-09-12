@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-# $jwk: update-mailstats.pl,v 1.4 2007/05/30 01:28:33 jwk Exp $
+# $jwk: update-mailstats.pl,v 1.6 2007/05/30 01:28:33 jwk Exp $
 #
 # Copyright 2006-2007 Joel Knight
 # Copyright Craig Sanders 1999
